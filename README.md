@@ -1,7 +1,6 @@
-# My App
+# Test application w/ Vaadin
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Vaadin Flow application generated with https://start.vaadin.com w/o further customization.
 
 ## Running the application
 
